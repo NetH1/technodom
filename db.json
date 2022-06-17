@@ -1,0 +1,189 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": 899990,
+            "year": "2021",
+            "diagonal": "6.7",
+            "discount": 5,
+            "credit": true,
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ],
+            "critics": [
+                {
+                    "id": 1,
+                    "name": "Арина",
+                    "score": 5.0,
+                    "otziv": "Нашуники классные, мне очень понравились",
+                    "date": "02.07.2021"
+                },
+                {
+                    "id": 2,
+                    "name": "Николай Свидченко",
+                    "score": 5.0,
+                    "otziv": "Apple всегда на высоте стоят своих денег. Берите не пожалеете!!!",
+                    "date": "03.09.2019"
+                },
+                {
+                    "id": 3,
+                    "name": "Арина",
+                    "score": 5.0,
+                    "otziv": "Ну, это нашумевшая модель, все о них знаю, кому-то нравится, кому-то нет. Но у меня они просто на вес золота! Не выпадают, имеют фирменный звук, что может быть лучше, поэтому, однозначно есть смысл брать!",
+                    "date": "08.05.2019"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+            "article": "252998",
+            "price": "899 990",
+            "year": "2021",
+            "diagonal": "6.7",
+            "resolution": "2778×1284",
+            "matrix": "Super Retina XDR",
+            "hz": "120",
+            "ram": "6",
+            "hard": "256",
+            "images": [
+                {
+                    "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                    "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                    "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+                }
+            ]
+        }
+    ]
+}
